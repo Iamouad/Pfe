@@ -1,0 +1,5 @@
+Satisfy all
+Order deny,allow
+Deny from all
+RewriteEngine On
+RewriteRule . - [F]

@@ -1,0 +1,66 @@
+
+
+   input {
+    width: 300px;
+    padding: 8px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid green;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+  td{
+      padding-right: 10px;
+  }
+
+  label{
+      color: rgb(0, 0, 0);
+      font-family: cursive;
+      font-size: 1.2em;
+  }
+  label:hover{
+      color: rgb(0, 175, 44);
+  }
+
+  input[type = submit]{
+    font-size: 1.2em;
+    width: 200px;
+    color: bisque;
+    padding: 8px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid green;
+    border-radius: 20px;
+    background-color: rgb(0, 87, 0);
+  }
+
+  #tab {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    padding: 10%;
+  }
+  
+  #tab td, #tab th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #tab tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #tab tr:hover {background-color: #ddd;}
+  
+  #tab th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+  }
+
+  #logine{
+    position: absolute;
+    top: 35%;
+    left:30%;  
+  }

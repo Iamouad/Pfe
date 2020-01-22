@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56f6157d-a85d-4e2a-ab01-f0d86e8570f7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1Vn22W5fzBp0gbBfWRg2xBJ8vPZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/admin_pfe_ensas/dsFolder" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\pfeFinal\admin_pfe_ensas\dsFolder" />
+      <recent name="C:\xampp\htdocs\pfeProf\admin_pfe_ensas" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\pfeFinal\admin_pfe_ensas\dsFolder" />
+      <recent name="C:\xampp\htdocs\pfeProf\admin_pfe_ensas\dsFolder" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56f6157d-a85d-4e2a-ab01-f0d86e8570f7" name="Default Changelist" comment="" />
+      <created>1577874332399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577874332399</updated>
+      <workItem from="1577874335762" duration="10807000" />
+      <workItem from="1578308354557" duration="2782000" />
+      <workItem from="1578317662740" duration="9241000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="0" key="#PHP" timestamp="1578308723388">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="0" key="#PHP/0.0.1280.680@0.0.1280.680" timestamp="1578308723388" />
+    <state x="221" y="0" key="#Servers" timestamp="1577875009013">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="221" y="0" key="#Servers/0.0.1280.680@0.0.1280.680" timestamp="1577875009013" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577875015373">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1577875015373" />
+    <state x="437" y="156" key="NewPhpClassDialog" timestamp="1577882643291">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="437" y="156" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1577882643291" />
+    <state x="627" y="400" key="NewPhpFileDialog" timestamp="1578323517853">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="627" y="400" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1578323517853" />
+    <state x="503" y="240" key="WebDeployment.AddServerDialog.v.1" timestamp="1577875005681">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="503" y="240" key="WebDeployment.AddServerDialog.v.1/0.0.1280.680@0.0.1280.680" timestamp="1577875005681" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1578317968509">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1578317968509" />
+  </component>
+</project>
