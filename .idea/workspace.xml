@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56f6157d-a85d-4e2a-ab01-f0d86e8570f7" name="Default Changelist" comment="" />
+    <list default="true" id="56f6157d-a85d-4e2a-ab01-f0d86e8570f7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_pfe_ensas/dsFolder/salle.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin_pfe_ensas/dsFolder/salle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_pfe_ensas/validerDate.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin_pfe_ensas/dsFolder/validerDate.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,8 +16,12 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1Vn22W5fzBp0gbBfWRg2xBJ8vPZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -21,17 +29,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/admin_pfe_ensas/dsFolder" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\pfeFinal\admin_pfe_ensas\dsFolder" />
-      <recent name="C:\xampp\htdocs\pfeProf\admin_pfe_ensas" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\pfeFinal\admin_pfe_ensas\dsFolder" />
       <recent name="C:\xampp\htdocs\pfeProf\admin_pfe_ensas\dsFolder" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\pfeFinal\admin_pfe_ensas\dsFolder" />
+      <recent name="C:\xampp\htdocs\pfeProf\admin_pfe_ensas" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -59,6 +68,7 @@
       <workItem from="1577874335762" duration="10807000" />
       <workItem from="1578308354557" duration="2782000" />
       <workItem from="1578317662740" duration="9241000" />
+      <workItem from="1579707277515" duration="421000" />
     </task>
     <servers />
   </component>
@@ -90,9 +100,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="503" y="240" key="WebDeployment.AddServerDialog.v.1/0.0.1280.680@0.0.1280.680" timestamp="1577875005681" />
-    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1578317968509">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="337" y="176" key="com.intellij.ide.util.TipDialog" timestamp="1579707278360">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1578317968509" />
+    <state x="337" y="176" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1579707278360" />
   </component>
 </project>

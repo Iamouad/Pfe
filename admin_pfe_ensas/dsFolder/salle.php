@@ -15,7 +15,7 @@ if(!isset($_SESSION['user']))
 <body>
 <div id = "division" class="container p-3 bg-dark text-white">
     <h1 class="text-center">Formulaire de dates et locaux de soutenances</h1>
-    <form action="../validerDate.php" method="post">
+    <form action="validerDate.php" method="post">
     <?php
        require 'DataBaseManager.php';
        $db = new DataBaseManager();
